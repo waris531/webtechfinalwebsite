@@ -1,0 +1,317 @@
+.body{background: none repeat scroll 0 0 #58a2a2;}
+
+.btn-primary {
+    color: #fff;
+    background-color: #588A44;
+    border-color: #527F3B;
+	border-radius:5px
+}
+
+.birth_p a{font-size:12px;color:#3B5998}
+.policy p{font-size:12px}
+.policy a{color:#3B5998}
+.left_move{float:left}
+.genderrr {
+    font-size: 18px;
+    font-weight: 600;
+    color: #323232;
+}
+.header_area {
+    background-color: #ffffff;
+    background-size: 1px 82px;
+    display: block;
+    overflow: hidden
+}
+.header{height:100px}
+.logo_area{}
+.logo{}
+.logo img {
+   
+    height: auto;
+    float: left;
+}
+.social_area {
+	float: right;
+    color: #ffffff;
+}
+.social{float:left;color:#ffffff}
+.social p a{float:left;color:#ffffff,font-size:13px}
+.content_area {
+        background-image: url("cback.png");
+    background-repeat: repeat-x;
+	 background-size: 1px 625px;
+    display: block;
+    overflow: hidden;
+    padding-top: 15px;
+	
+	
+}
+.rightsocial{
+    display: block;
+    overflow: hidden;
+	margin-top:30px
+}
+
+.socialmenu ul{margin:0;padding:0;list-style:none}
+.socialmenu ul li{float:left;}
+.socialmenu ul li a {
+display: block;
+    text-decoration: none;
+    padding: 9px 9px;
+    color: #323232;
+    font-size: 12px;
+    margin: 0px 1px 0px 1px;
+    transition: 0.9s;
+    background: #E07601;
+}
+.socialmenu ul li a:hover {
+ background-color: #E78200;
+  color: #ffffff;
+	 
+}
+
+.menus_area{background-color:#E27900}
+
+
+#menu_area{
+    background-color: #E27900;
+    height: auto;
+    width: 100%;
+    display: block;
+    overflow: hidden;
+}
+
+.menu ul{margin:0;padding:0;list-style:none}
+.menu ul li{float:left;}
+.menu ul li a {
+    display: block;
+    text-decoration: none;
+    padding: 12px 15px;
+    color: #ffffff;
+    font-size: 15px;
+    margin: 0px 12px 0px 1px;
+    transition: 0.9s;
+    font-weight: 500;
+}
+.menu ul li a:hover {
+ background-color: #ffffff;
+  color: #323232;
+	 
+}
+
+
+.action_area{display:block;overflow:hidden;background-color:#A37500}
+.actions{}
+.left_action{    float: left;
+    overflow: hidden;}
+.left_action h2{font-size24px}
+.right_left_action{    float: right;
+    overflow: hidden;}
+.actions{    height: 70px;
+    margin: 25px 0 0 0;
+    color: #fff;}
+.actions{}
+.actions{}
+
+
+.service_area{ text-align:center;overflow: hidden;
+    display: block;padding-top:30px;padding-bottom:30px;background-color:#E27900}
+.vanbutton { margin-top:10px}
+
+.single_service{    float: left;
+    overflow: hidden;
+    display: block;}
+
+.service_section{text-align:center}
+
+
+
+.sssbutton{width:245px}
+
+.social_move {
+    float: right;
+    margin-top: 15px;
+}
+
+
+.social_design1 {
+    font-size: 12px;
+    font-weight: 500;
+	float:left;
+}
+.social_design2{    font-size: 12px;
+    font-weight: 500;float:left;}
+	
+.social_design2 p a{color:#E8EAED}
+.submit_button {
+    margin-top: 15px;float:left
+}
+.submit_button{}
+.submit_button{}
+.submit_button p{}
+.submit_button_design {
+     cursor: pointer;
+    width: 80px;
+    font-size: 12px;
+    background-color: #DD4F43;
+    height: 39px;
+    border: none;
+    text-align: center;
+    padding: 0px 3px 0px 3px;
+    font-weight: bold;
+    margin-left: 15px;
+    margin-top: 18px;
+    border: 1px solid #213c73;color:#ffffff
+}
+.mleft{margin-left:15px}
+
+
+
+
+.header_bottom_area{
+	
+  background-image: url("slider3.jpg"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;	
+	
+	
+}
+.header_bottom_area{}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.main_content_area{}
+.left_content{float:left}
+.left_content h2{color:#0e385f;font-size:21px;font-weight:bold}
+.left_content img{width:520px;height:auto}
+.right_content{float: right;}
+.right_content1{}
+.right_content1 h1{color:#333;font-size:38px;font-weight:bold}
+.right_content1 h3{color:#333;font-size:18px;}
+.bookingformarea{display:block;overflow:hidden;background-color:#101113;text-align:center}
+.right_content2{}
+.right_content2{}
+.right_content2{}
+.right_content2{}
+
+
+
+.footer_area{display:block;overflow:hidden;background-color:#DEE1ED;text-align:center}
+.footer{display:block;overflow:hidden;}
+.footer_top{margin-top:40px;border-bottom:solid 1px #E0E0E0;overflow:hidden;}
+.footer_top ul{margin:0,padding:0}
+.footer_top ul li{list-style:none;float:left}
+.footer_top ul li a{padding:0 13px 0 13px;font-size:12px;color:#365899}
+.footer_top ul li a:hover{}
+
+.footer_bottom{margin-top:15px;overflow:hidden;}
+.footer_bottom ul{margin:0,padding:0}
+.footer_bottom ul li{list-style:none;float:left}
+.footer_bottom ul li a{padding:0 10px 0 10px;font-size:12px;color:#365899}
+.footer_bottom ul li a:hover{}
+
+.copyright{overflow:hidden;margin-top:20px}
+.copyright p{font-size:13px;color:#323232;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #e9e9e9;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #2196F3;
+  color: white;
+}
+
+.topnav .search-container {
+  float: right;
+}
+
+.topnav input[type=text] {
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: none;
+}
+
+.topnav .search-container button {
+  float: right;
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+.topnav .search-container button:hover {
+  background: #ccc;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav .search-container {
+    float: none;
+  }
+  .topnav a, .topnav input[type=text], .topnav .search-container button {
+    float: none;
+    display: block;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    padding: 14px;
+  }
+  .topnav input[type=text] {
+    border: 1px solid #ccc;  
+  }
+}
